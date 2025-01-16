@@ -1,7 +1,7 @@
-Source: FreeCodeCamp.org
-Course: Responsive Web Design
-Task: Build A Technical Documentation Page
-
+Source: FreeCodeCamp.org <br>
+Course: Responsive Web Design<br>
+Task: Build A Technical Documentation Page<br>
+<br>
 Note: This code has placeholder text, you can change according to preferences.
 
 Preview: 
